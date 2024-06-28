@@ -25,7 +25,7 @@
                 <button class="bn30">Home</button>
             </a>
             <a href="/">
-                <button class="bn30">Sobre</button>
+                <button class="bn30">Cadastro</button>
             </a>
             <div class="relative dropdown">
                 <button class="bn30">Serviços</button>
