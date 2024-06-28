@@ -28,7 +28,7 @@
                 <button class="bn30">Cadastro</button>
             </a>
             <div class="relative dropdown">
-                <button class="bn30">Serviços</button>
+                <button class="bn30">Estoque</button>
                 <div class="absolute hidden bg-white shadow-md rounded-md mt-2 dropdown-menu">
                     <a href="/" class="block px-4 py-2 text-gray-800 hover:bg-gray-100">Serviço 1</a>
                     <a href="/" class="block px-4 py-2 text-gray-800 hover:bg-gray-100">Serviço 2</a>
